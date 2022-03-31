@@ -1,0 +1,6 @@
+[submodule "exercise"]
+	path = exercise
+	url = https://github.com/nndl/exercise.git
+[submodule "ML-For-Beginners"]
+	path = ML-For-Beginners
+	url = https://github.com/microsoft/ML-For-Beginners.git

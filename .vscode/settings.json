@@ -1,5 +1,13 @@
 {
-  "python.linting.enabled": true,
-  "python.formatting.provider": "autopep8",
-  "python.testing.unittestArgs": ["-v", "-s", "./Others", "-p", "*test.py"]
+  "python.linting.enabled": false,
+  "python.formatting.provider": "yapf",
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./Others",
+    "-p",
+    "*test.py"
+  ],
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": false
 }

@@ -11,5 +11,6 @@
   "python.linting.flake8Enabled": true,
   "python.linting.pylintEnabled": false,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
-  "aiXcoder.showTrayIcon": true
+  "aiXcoder.showTrayIcon": true,
+  "python.analysis.typeCheckingMode": "basic"
 }
